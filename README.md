@@ -1,4 +1,6 @@
 # projeto120220
-Aula 02 
+Testando o primeiro projeto 
 <br>
-Aula teste
+Exportar para máquina <br>
+TESTE 01
+
