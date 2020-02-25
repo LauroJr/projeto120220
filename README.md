@@ -1,6 +1,8 @@
 # projeto120220
-Testando o primeiro projeto 
+Primeiro projeto 
 <br>
-Exportar para máquina <br>
-TESTE 01
-
+Projeto iniciado em 12/02/2020
+<br>
+Aula DevOps
+<br>
+Lauro Mendes do Amaral Junior
